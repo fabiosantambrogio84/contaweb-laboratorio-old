@@ -1,0 +1,13 @@
+/* Nav bar */
+.cwl-navbar {
+	color: white;
+	background-color: #b43c00;
+}
+
+.cwl-navbar a{
+	color: white;
+}
+
+.cwl-navbarDropDownSubMenu {
+	background-color: #b43c00;
+}
